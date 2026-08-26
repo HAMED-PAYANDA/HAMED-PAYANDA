@@ -83,6 +83,6 @@ flowchart LR
 ### 📊 GitHub Stats
 <!-- These dynamically update based on your GitHub activity! -->
 
-![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=radium)
+![Hamed's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=HAMED-PAYANDA&theme=radium&hide_border=true)
 
 
