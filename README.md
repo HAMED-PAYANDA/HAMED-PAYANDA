@@ -30,7 +30,7 @@ Welcome to my GitHub! I am a passionate developer who bridges the gap between in
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Scratch](https://img.shields.io/badge/scratch-%234D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
-**Frameworks & Back-End Platforms** *(Feel free to delete ones you don't use!)*
+**Frameworks & Back-End Platforms** 
 <br>
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -38,7 +38,7 @@ Welcome to my GitHub! I am a passionate developer who bridges the gap between in
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-**AI, Data & Libraries** *(Customize based on your favorites!)*
+**AI, Data & Libraries** 
 <br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -82,4 +82,4 @@ flowchart LR
 
 ### 📊 GitHub Stats
 <!-- These dynamically update based on your GitHub activity! -->
-![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=radium)
+![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=radium&v=1)
