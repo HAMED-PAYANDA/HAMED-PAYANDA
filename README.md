@@ -2,7 +2,7 @@
 
 **Full-Stack Software Developer | AI Developer**
 
-Welcome to my GitHub! I am a committed Full-Stack Software developer who bridges the gap between intelligent data-driven systems and scalable web applications. I love building out complex back-ends, integrating AI models, and creating seamless user experiences.
+Welcome to my GitHub! I am a committed Full-Stack Software Developer who bridges the gap between intelligent data-driven systems and scalable web applications. I love building out complex back-ends, integrating AI models, and creating seamless user experiences.
 
 ### 👤 About Me
 
