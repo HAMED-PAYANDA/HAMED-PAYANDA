@@ -4,11 +4,11 @@
 
 Welcome to my GitHub! I am a committed Full-Stack Software developer who bridges the gap between intelligent data-driven systems and scalable web applications. I love building out complex back-ends, integrating AI models, and creating seamless user experiences.
 
-### 🚀 About Me
+### 👤 About Me
 
 - 🔭 **I’m currently working on:** developing scalable Full-Stack web applications and integrating custom AI models to build smarter, data-driven software solutions.
 - 🌱 **I’m currently learning:** advanced deployment strategies for machine learning models and optimizing back-end architecture for high-performance applications.
-- 👯 **I’m looking to collaborate on:** Open-source AI tools and innovative Full-Stack projects.
+- 🤝  **I’m looking to collaborate on:** Open-source AI tools and innovative Full-Stack projects.
 - 💬 **Ask me about:** Python, C#, JavaScript, back-end architecture, and integrating machine learning into applications.
 - 📫 **How to reach me:** Let's connect on [LinkedIn](https://linkedin.com/in/YOUR-PROFILE-URL) or reach out via email at hamedpayanda@gmail.com.
 - ⚡ **Fun fact:** My programming journey actually started by snapping together visual code blocks in Scratch, and today I'm building complex AI models and full-stack architectures!
