@@ -6,12 +6,12 @@ Welcome to my GitHub! I am a passionate developer who bridges the gap between in
 
 ### 🚀 About Me
 
-- 🔭 **I’m currently working on:** [Add your current project, e.g., a Full-Stack AI application or web platform]
-- 🌱 **I’m currently learning:** [Add something new you are learning, e.g., Advanced neural networks, cloud architecture, etc.]
+- 🔭 **I’m currently working on:** developing scalable Full-Stack web applications and integrating custom AI models to build smarter, data-driven software solutions.
+- 🌱 **I’m currently learning:** advanced deployment strategies for machine learning models and optimizing back-end architecture for high-performance applications.
 - 👯 **I’m looking to collaborate on:** Open-source AI tools and innovative Full-Stack projects.
 - 💬 **Ask me about:** Python, C#, JavaScript, back-end architecture, and integrating machine learning into applications.
-- 📫 **How to reach me:** [Add your email or LinkedIn URL here]
-- ⚡ **Fun fact:** [Add a fun fact, e.g., I actually started my coding journey with Scratch before moving to C!]
+- 📫 **How to reach me:** Let's connect on [LinkedIn](https://linkedin.com/in/YOUR-PROFILE-URL) or reach out via email at hamedpayanda@gmail.com.
+- ⚡ **Fun fact:** My programming journey actually started by snapping together visual code blocks in Scratch, and today I'm building complex AI models and full-stack architectures!
 
 ---
 
@@ -46,6 +46,39 @@ Welcome to my GitHub! I am a passionate developer who bridges the gap between in
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
+
+### 🏗️ How I Build Systems (Full-Stack AI Architecture)
+
+```mermaid
+flowchart LR
+    %% Defining styles
+    classDef frontend fill:#1572B6,stroke:#333,stroke-width:2px,color:#fff;
+    classDef backend fill:#239120,stroke:#333,stroke-width:2px,color:#fff;
+    classDef ai fill:#3670A0,stroke:#333,stroke-width:2px,color:#fff;
+    classDef db fill:#000000,stroke:#333,stroke-width:2px,color:#fff;
+
+    %% Nodes
+    Client([💻 Web Client<br/>HTML, CSS, JavaScript]):::frontend
+    
+    subgraph Core Back-End Services
+        API[⚙️ API Gateway & Microservices<br/>C#, Java, Node.js]:::backend
+        DB[(🗄️ Database<br/>SQL)]:::db
+    end
+
+    subgraph AI & Data Engine
+        Data[📊 Data Processing<br/>R, Pandas]:::ai
+        ML[🧠 Machine Learning<br/>Python Models]:::ai
+    end
+
+    %% Connections
+    Client <-->|REST / GraphQL| API
+    API <-->|Read / Write Queries| DB
+    API <-->|Request Predictions| ML
+    Data -->|Train & Optimize| ML
+```
+
+---
+
 
 ### 📊 GitHub Stats
 <!-- These dynamically update based on your GitHub activity! -->
