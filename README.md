@@ -2,7 +2,7 @@
 
 **Full-Stack Software Developer | AI Developer**
 
-Welcome to my GitHub! I am a passionate developer who bridges the gap between intelligent data-driven systems and scalable web applications. I love building out complex back-ends, integrating AI models, and creating seamless user experiences.
+Welcome to my GitHub! I am a committed Full-Stack Software developer who bridges the gap between intelligent data-driven systems and scalable web applications. I love building out complex back-ends, integrating AI models, and creating seamless user experiences.
 
 ### 🚀 About Me
 
@@ -83,6 +83,6 @@ flowchart LR
 ### 📊 GitHub Stats
 <!-- These dynamically update based on your GitHub activity! -->
 
-![Hamed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMED-PAYANDA&layout=compact&theme=radium)
+![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=radium)
 
 
