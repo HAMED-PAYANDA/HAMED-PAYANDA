@@ -1,6 +1,15 @@
 # Hi there 👋, I'm Hamed Payanda! 
 
 **Full-Stack Software Developer | AI Developer**
+<div align="left">
+  <a href="https://linkedin.com/in/YOUR-PROFILE-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hamedpayanda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+<br>
 
 Welcome to my GitHub! I am a committed Full-Stack Software Developer who bridges the gap between intelligent data-driven systems and scalable web applications. I love building out complex back-ends, integrating AI models, and creating seamless user experiences.
 
@@ -93,4 +102,9 @@ flowchart LR
 * **[🌐 Watsonx Voice Translator](https://github.com/HAMED-PAYANDA/watsonx-voice-translator)** - An end-to-end speech-to-speech translation web app that captures audio, translates contextually, and synthesizes speech. Built with a Python Flask backend, IBM Watson Speech Libraries (STT/TTS), watsonx.ai (Mistral), and containerized with Docker.
 
 ---
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HAMED-PAYANDA&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
