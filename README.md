@@ -1,6 +1,9 @@
 # Hi there 👋, I'm Hamed Payanda! 
 
-**Full-Stack Software Developer | AI Developer**          <div align="left">
+**Full-Stack Software Developer | AI Developer**          
+
+Welcome to my GitHub! I am a committed Full-Stack Software Developer who bridges the gap between intelligent data-driven systems and scalable web applications. I love building out complex back-ends, integrating AI models, and creating seamless user experiences.
+<div align="left">
   <a href="https://linkedin.com/in/YOUR-PROFILE-URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -9,9 +12,6 @@
   </a>
 </div>
 <br>
-
-
-Welcome to my GitHub! I am a committed Full-Stack Software Developer who bridges the gap between intelligent data-driven systems and scalable web applications. I love building out complex back-ends, integrating AI models, and creating seamless user experiences.
 
 ### 👤 About Me
 
