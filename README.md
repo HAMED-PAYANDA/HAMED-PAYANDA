@@ -80,11 +80,7 @@ flowchart LR
 ---
 
 
-### 📊 GitHub Stats
-<!-- These dynamically update based on your GitHub activity! -->
+### 🏆 Featured Projects
 
-<a href="https://github.com/HAMED-PAYANDA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMED-PAYANDA&layout=compact&theme=radium&v=20260827" alt="Hamed's Top Languages" />
-</a>
-
+* **[🧭 AI Career Coach](https://github.com/HAMED-PAYANDA/watsonx-gradio-career-coach)** - An interactive AI application suite featuring a resume polisher, cover letter generator, and career gap analyzer. Built using a Python/Gradio front-end integrated with IBM watsonx.ai (Meta Llama 4) cloud LLMs.
 
