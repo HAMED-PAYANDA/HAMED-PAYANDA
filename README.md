@@ -6,11 +6,11 @@ Welcome to my GitHub! I am a committed Full-Stack Software Developer who bridges
 
 <div align="left">
   <a href="https://linkedin.com/in/YOUR-PROFILE-URL" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-00F5D4?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-1F2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:hamedpayanda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Direct_Message-1F2937?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 </div>
 <br>
