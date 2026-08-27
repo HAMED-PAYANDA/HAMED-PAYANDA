@@ -84,7 +84,7 @@ flowchart LR
 <!-- These dynamically update based on your GitHub activity! -->
 
 <a href="https://github.com/HAMED-PAYANDA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=radium&v=20260827" alt="Hamed's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMED-PAYANDA&layout=compact&theme=radium&v=20260827" alt="Hamed's Top Languages" />
 </a>
 
 
