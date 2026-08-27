@@ -3,13 +3,14 @@
 **Full-Stack Software Developer | AI Developer**          
 
 Welcome to my GitHub! I am a committed Full-Stack Software Developer who bridges the gap between intelligent data-driven systems and scalable web applications. I love building out complex back-ends, integrating AI models, and creating seamless user experiences.
+
 <div align="left">
   <a href="https://linkedin.com/in/YOUR-PROFILE-URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-00F5D4?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:hamedpayanda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Me-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 <br>
