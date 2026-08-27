@@ -84,3 +84,7 @@ flowchart LR
 
 * **[🧭 AI Career Coach](https://github.com/HAMED-PAYANDA/watsonx-gradio-career-coach)** - An interactive AI application suite featuring a resume polisher, cover letter generator, and career gap analyzer. Built using a Python/Gradio front-end integrated with IBM watsonx.ai (Meta Llama 4) cloud LLMs.
 
+* **[🌐 Watsonx Voice Translator](https://github.com/HAMED-PAYANDA/watsonx-voice-translator)** - An end-to-end speech-to-speech translation web app that captures audio, translates contextually, and synthesizes speech. Built with a Python Flask backend, IBM Watson Speech Libraries (STT/TTS), watsonx.ai (Mistral), and containerized with Docker.
+
+---
+
