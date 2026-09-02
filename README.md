@@ -100,9 +100,6 @@ flowchart LR
 ---
 
 ---
-<a href="https://github.com/HAMED-PAYANDA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=radium&v=20260827" alt="Hamed's GitHub stats" />
-</a>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HAMED-PAYANDA&style=flat-square&color=blue" alt="Profile Views" />
