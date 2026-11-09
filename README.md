@@ -6,7 +6,7 @@
 </div>
 <br>
 
-Welcome to my GitHub! I am a dedicated Full-Stack Software Developer who integrates intelligent data-driven systems and scalable web applications, and resilient Linux infrastructure. I love building out complex back-ends, integrating AI models, and creating seamless user experiences. I specialize in building robust back-end architectures, integrating AI models, and automating secure enterprise workflows.
+Welcome to my GitHub! I am a dedicated Full-Stack Software Developer engineering intelligent, data-driven systems, scalable web applications, and resilient Linux infrastructure. I specialize in building robust back-end architectures, integrating AI models, and automating secure enterprise workflows to create seamless user experiences.
 
 ### 👤 About Me
 
@@ -132,8 +132,17 @@ flowchart LR
 * **[🧭 AI Career Coach](https://github.com/HAMED-PAYANDA/watsonx-gradio-career-coach)** - An interactive AI application suite featuring a resume polisher, cover letter generator, and career gap analyzer. Built using a Python/Gradio front-end integrated with IBM watsonx.ai (Meta Llama 4) cloud LLMs.
 
 * **[🌐 Watsonx Voice Translator](https://github.com/HAMED-PAYANDA/watsonx-voice-translator)** - An end-to-end speech-to-speech translation web app that captures audio, translates contextually, and synthesizes speech. Built with a Python Flask backend, IBM Watson Speech Libraries (STT/TTS), watsonx.ai (Mistral), and containerized with Docker.
+  
+* **[🛡️ Secure Cron Backup](https://github.com/HAMED-PAYANDA/secure-cron-backup)** - A production-ready, POSIX-compliant Bash utility for automated daily file backups via Cron. Features epoch time validation, strict array parsing, and integrated ShellCheck CI/CD linting.
 
 ---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=transparent&hide_border=true&title_color=2088FF&icon_color=2088FF&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMED-PAYANDA&layout=compact&theme=transparent&hide_border=true&title_color=2088FF&text_color=ffffff" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
