@@ -137,14 +137,14 @@ flowchart LR
 
 ---
 
-<!-- ### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=transparent&hide_border=true&title_color=2088FF&icon_color=2088FF&text_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMED-PAYANDA&layout=compact&theme=transparent&hide_border=true&title_color=2088FF&text_color=ffffff)
 
-</div> -->
+</div> 
 
 ---
 
