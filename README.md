@@ -140,8 +140,10 @@ flowchart LR
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=transparent&hide_border=true&title_color=2088FF&icon_color=2088FF&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMED-PAYANDA&layout=compact&theme=transparent&hide_border=true&title_color=2088FF&text_color=ffffff" alt="Top Languages" width="48%" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=transparent&hide_border=true&title_color=2088FF&icon_color=2088FF&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMED-PAYANDA&layout=compact&theme=transparent&hide_border=true&title_color=2088FF&text_color=ffffff)
+
 </div>
 
 ---
