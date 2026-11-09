@@ -6,16 +6,16 @@
 </div>
 <br>
 
-Welcome to my GitHub! I am a dedicated Full-Stack Software Developer who integrates intelligent data-driven systems and scalable web applications. I love building out complex back-ends, integrating AI models, and creating seamless user experiences.
+Welcome to my GitHub! I am a dedicated Full-Stack Software Developer who integrates intelligent data-driven systems and scalable web applications, and resilient Linux infrastructure. I love building out complex back-ends, integrating AI models, and creating seamless user experiences. I specialize in building robust back-end architectures, integrating AI models, and automating secure enterprise workflows.
 
 ### 👤 About Me
 
 - 🔭 **I’m currently working on:** developing scalable Full-Stack web applications and integrating custom AI models to build smarter, data-driven software solutions.
-- 🌱 **I’m currently learning:** advanced deployment strategies for machine learning models and optimizing back-end architecture for high-performance applications.
-- 🤝  **I’m looking to collaborate on:** Open-source AI tools and innovative Full-Stack projects.
-- 💬 **Ask me about:** Python, C#, JavaScript, back-end architecture, and integrating machine learning into applications.
+- 🌱 **I’m currently learning:** advanced deployment strategies for machine learning models, low-level memory management in C, and optimizing back-end architecture for high-performance applications.
+- 🤝  **I’m looking to collaborate on:** Open-source AI tools and innovative Full-Stack projects, and system automation workflows.
+- 💬 **Ask me about:** Python, C#, JavaScript, back-end architecture, AI integration, C programming, and Linux shell automation.
 - 📫 **How to reach me:** Let's connect on [LinkedIn](https://linkedin.com/in/YOUR-PROFILE-URL) or reach out via email at hamedpayanda@gmail.com.
-- ⚡ **Fun fact:** My programming journey actually started by snapping together visual code blocks in Scratch, and today I'm building complex AI models and full-stack architectures!
+- ⚡ **Fun fact:** My programming journey actually started by snapping together visual code blocks in Scratch, and today I'm building complex AI models, full-stack architectures, and custom UNIX command-line environments!
 
 ---
 
@@ -32,6 +32,8 @@ Welcome to my GitHub! I am a dedicated Full-Stack Software Developer who integra
 ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Scratch](https://img.shields.io/badge/scratch-%234D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
 **Frameworks & Back-End Platforms** 
@@ -54,6 +56,7 @@ Welcome to my GitHub! I am a dedicated Full-Stack Software Developer who integra
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
