@@ -92,6 +92,37 @@ flowchart LR
 
 ---
 
+### ⚙️ How I Automate Systems (Infrastructure & DevOps)
+
+```mermaid
+flowchart LR
+    %% Defining styles
+    classDef devops fill:#2088FF,stroke:#333,stroke-width:2px,color:#fff;
+    classDef os fill:#FCC624,stroke:#333,stroke-width:2px,color:#000;
+    classDef script fill:#4EAA25,stroke:#333,stroke-width:2px,color:#fff;
+
+    %% Nodes
+    Dev([💻 Git Version Control<br/>Code Push]):::devops
+    
+    subgraph CI/CD Pipeline
+        Actions[⚙️ GitHub Actions<br/>Linting & Testing]:::devops
+    end
+
+    subgraph Linux Infrastructure & Automation
+        Server[🐧 Linux Environment<br/>POSIX Architecture]:::os
+        Cron[🕰️ Cron Daemon<br/>Background Scheduling]:::os
+        Bash[📜 Bash / Shell<br/>System Utilities]:::script
+    end
+
+    %% Connections
+    Dev -->|Triggers| Actions
+    Actions -->|Automated Deployment| Server
+    Server -->|Hosts| Cron
+    Cron -->|Executes Routine Tasks| Bash
+```
+
+---
+
 
 ### 🏆 Featured Projects
 
