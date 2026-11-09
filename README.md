@@ -92,7 +92,7 @@ flowchart LR
 
 ---
 
-### ⚙️ How I Automate Systems (Infrastructure & DevOps)
+### ⚙️ How I Automate & Manage Systems (Infrastructure & OS)
 
 ```mermaid
 flowchart LR
@@ -100,6 +100,7 @@ flowchart LR
     classDef devops fill:#2088FF,stroke:#333,stroke-width:2px,color:#fff;
     classDef os fill:#FCC624,stroke:#333,stroke-width:2px,color:#000;
     classDef script fill:#4EAA25,stroke:#333,stroke-width:2px,color:#fff;
+    classDef core fill:#00599C,stroke:#333,stroke-width:2px,color:#fff;
 
     %% Nodes
     Dev([💻 Git Version Control<br/>Code Push]):::devops
@@ -108,17 +109,19 @@ flowchart LR
         Actions[⚙️ GitHub Actions<br/>Linting & Testing]:::devops
     end
 
-    subgraph Linux Infrastructure & Automation
-        Server[🐧 Linux Environment<br/>POSIX Architecture]:::os
-        Cron[🕰️ Cron Daemon<br/>Background Scheduling]:::os
+    subgraph OS & Low-Level Architecture
+        Server[🐧 Linux Environment<br/>POSIX Standards]:::os
+        Cron[🕰️ Cron Daemon<br/>Automation]:::os
         Bash[📜 Bash / Shell<br/>System Utilities]:::script
+        CProg[⚙️ C Programming<br/>Memory & Process Control]:::core
     end
 
     %% Connections
     Dev -->|Triggers| Actions
     Actions -->|Automated Deployment| Server
-    Server -->|Hosts| Cron
-    Cron -->|Executes Routine Tasks| Bash
+    Server -->|Schedules Tasks| Cron
+    Cron -->|Executes| Bash
+    Server -->|Direct System Calls| CProg
 ```
 
 ---
