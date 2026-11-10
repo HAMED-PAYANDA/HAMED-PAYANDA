@@ -4,7 +4,7 @@
 </div>
 <br>
 
-# Hi there <img src="./icons/agents.png" width="24" height="24" align="absmiddle" alt="user" />, I'm Hamed Payanda! 
+# Hi there <img src="./icons/agents.png" width="32" height="32" align="absmiddle" alt="user" />, I'm Hamed Payanda! 
 
 **Full-Stack Software Developer | AI Developer** 
 <div align="left">
