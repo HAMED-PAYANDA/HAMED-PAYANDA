@@ -25,7 +25,7 @@ Welcome to my GitHub! I am a dedicated Full-Stack Software Developer engineering
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### <img src="./icons/tools.png" width="24" height="24" align="absmiddle" alt="user" /> Tech Stack & Tools
 
 **Programming Languages**
 <br>
@@ -66,7 +66,7 @@ Welcome to my GitHub! I am a dedicated Full-Stack Software Developer engineering
 
 ---
 
-### 🏗️ How I Build Systems (Full-Stack AI Architecture)
+### <img src="./icons/datebase.png" width="24" height="24" align="absmiddle" alt="user" /> How I Build Systems (Full-Stack AI Architecture)
 
 ```mermaid
 flowchart LR
@@ -98,7 +98,7 @@ flowchart LR
 
 ---
 
-### ⚙️ How I Automate & Manage Systems (Infrastructure & OS)
+### <img src="./icons/systems.png" width="24" height="24" align="absmiddle" alt="user" /> How I Automate & Manage Systems (Infrastructure & OS)
 
 ```mermaid
 flowchart LR
@@ -133,7 +133,7 @@ flowchart LR
 ---
 
 
-### 🏆 Featured Projects
+### <img src="./icons/science.png" width="24" height="24" align="absmiddle" alt="user" /> Featured Projects
 
 * **[🧭 AI Career Coach](https://github.com/HAMED-PAYANDA/watsonx-gradio-career-coach)** - An interactive AI application suite featuring a resume polisher, cover letter generator, and career gap analyzer. Built using a Python/Gradio front-end integrated with IBM watsonx.ai (Meta Llama 4) cloud LLMs.
 
@@ -143,7 +143,7 @@ flowchart LR
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### <img src="./icons/analytics.png" width="24" height="24" align="absmiddle" alt="user" /> GitHub Activity & Analytics
 
 <div align="center">
 
