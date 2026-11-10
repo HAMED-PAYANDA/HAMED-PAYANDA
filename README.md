@@ -14,7 +14,7 @@
 
 Welcome to my GitHub! I am a dedicated Full-Stack Software Developer engineering intelligent, data-driven systems, scalable web applications, and resilient Linux infrastructure. I specialize in building robust back-end architectures, integrating AI models, and automating secure enterprise workflows to create seamless user experiences.
 
-### ⬢ About Me
+### <img src="./icons/about.png" width="22" align="center" alt="user" /> About Me
 
 - ◈ **I’m currently working on:** developing scalable Full-Stack web applications and integrating custom AI models to build smarter, data-driven software solutions.
 - ⬡ **I’m currently learning:** advanced deployment strategies for machine learning models, low-level memory management in C, and optimizing back-end architecture for high-performance applications.
