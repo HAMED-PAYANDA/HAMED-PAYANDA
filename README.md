@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./header-banner.jpeg" alt="AI and Systems Architecture Banner" width="100%" />
+  <img src="https://github.com/HAMED-PAYANDA/HAMED-PAYANDA/blob/main/header-banner.jpg?raw=true" alt="AI and Systems Architecture Banner" width="100%" />
 </div>
 <br>
 
