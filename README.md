@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="header-banner.jpg" alt="AI and Systems Architecture Banner" width="100%" />
+</div>
+<br>
+
 # Hi there 👋, I'm Hamed Payanda! 
 
 **Full-Stack Software Developer | AI Developer** 
