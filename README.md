@@ -66,7 +66,7 @@ Welcome to my GitHub! I am a dedicated Full-Stack Software Developer engineering
 
 ---
 
-### <img src="./icons/datebase.png" width="24" height="24" align="absmiddle" alt="user" /> How I Build Systems (Full-Stack AI Architecture)
+### <img src="./icons/security.png" width="24" height="24" align="absmiddle" alt="user" /> How I Build Systems (Full-Stack AI Architecture)
 
 ```mermaid
 flowchart LR
