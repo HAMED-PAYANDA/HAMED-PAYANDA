@@ -25,11 +25,10 @@ Welcome to my GitHub! I am a dedicated Full-Stack Software Developer engineering
 
 ---
 
-### <img src="./icons/tools.png" width="22" align="center" alt="tools" /> Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 **Programming Languages**
 <br>
-![Python](https://img.shields.io/badge/python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
