@@ -42,6 +42,16 @@ Welcome to my GitHub! I am a dedicated Full-Stack Software Developer engineering
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Scratch](https://img.shields.io/badge/scratch-%234D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
+![Python](https://img.shields.io/badge/python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/javascript-0F172A?style=for-the-badge&logo=javascript&logoColor=38BDF8)
+![C#](https://img.shields.io/badge/c%23-0F172A?style=for-the-badge&logo=csharp&logoColor=38BDF8)
+![Java](https://img.shields.io/badge/java-0F172A?style=for-the-badge&logo=openjdk&logoColor=38BDF8)
+![C](https://img.shields.io/badge/c-0F172A?style=for-the-badge&logo=c&logoColor=38BDF8)
+![R](https://img.shields.io/badge/r-0F172A?style=for-the-badge&logo=r&logoColor=38BDF8)
+![SQL](https://img.shields.io/badge/sql-0F172A?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
+![Bash](https://img.shields.io/badge/Bash-0F172A?style=for-the-badge&logo=gnu-bash&logoColor=38BDF8)
+
+
 **Frameworks & Back-End Platforms** 
 <br>
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
