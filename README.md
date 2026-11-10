@@ -147,7 +147,6 @@ flowchart LR
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=transparent&hide_border=true&title_color=2088FF&icon_color=2088FF&text_color=ffffff)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=HAMED-PAYANDA&layout=compact&theme=transparent&hide_border=true&title_color=2088FF&text_color=ffffff)
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HAMED-PAYANDA&show_icons=true&theme=transparent&hide_border=true&title_color=2088FF&icon_color=2088FF&text_color=ffffff&hide_rank=true)
 
