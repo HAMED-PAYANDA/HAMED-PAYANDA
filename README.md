@@ -25,7 +25,7 @@ Welcome to my GitHub! I am a dedicated Full-Stack Software Developer engineering
 
 ---
 
-### <img src="./icons/stack.png" width="22" align="center" alt="tools" /> Tech Stack & Tools
+### <img src="./icons/tools.png" width="22" align="center" alt="tools" /> Tech Stack & Tools
 
 **Programming Languages**
 <br>
