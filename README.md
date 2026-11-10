@@ -16,13 +16,12 @@ Welcome to my GitHub! I am a dedicated Full-Stack Software Developer engineering
 
 ### <img src="./icons/about.png" width="22" align="center" alt="user" /> About Me
 
-- ◈ **I’m currently working on:** developing scalable Full-Stack web applications and integrating custom AI models to build smarter, data-driven software solutions.
-- ⬡ **I’m currently learning:** advanced deployment strategies for machine learning models, low-level memory management in C, and optimizing back-end architecture for high-performance applications.
-- ⟐ **I’m looking to collaborate on:** Open-source AI tools, innovative Full-Stack projects, and system automation workflows.
-- ◆ **Ask me about:** Python, C#, JavaScript, back-end architecture, AI integration, C programming, and Linux shell automation.
-- ⬣ **How to reach me:** Let's connect on [LinkedIn](https://linkedin.com/in/YOUR-PROFILE-URL) or reach out via email at hamedpayanda@gmail.com.
-- ⚡ **Fun fact:** My programming journey started by snapping together visual code blocks in Scratch; today I build complex AI models, full-stack architectures, and custom UNIX environments!
-
+- <img src="./icons/working.png" width="20" align="center" alt="scope" /> **I’m currently working on:** developing scalable Full-Stack web applications and integrating custom AI models to build smarter, data-driven software solutions.
+- <img src="./icons/learning.png" width="20" align="center" alt="seed" /> **I’m currently learning:** advanced deployment strategies for machine learning models, low-level memory management in C, and optimizing back-end architecture for high-performance applications.
+- <img src="./icons/collab.png" width="20" align="center" alt="handshake" /> **I’m looking to collaborate on:** Open-source AI tools, innovative Full-Stack projects, and system automation workflows.
+- <img src="./icons/ask.png" width="20" align="center" alt="chat" /> **Ask me about:** Python, C#, JavaScript, back-end architecture, AI integration, C programming, and Linux shell automation.
+- <img src="./icons/contact.png" width="20" align="center" alt="mail" /> **How to reach me:** Let's connect on [LinkedIn](https://linkedin.com/in/YOUR-PROFILE-URL) or reach out via email at hamedpayanda@gmail.com.
+- <img src="./icons/fact.png" width="20" align="center" alt="zap" /> **Fun fact:** My programming journey started by snapping together visual code blocks in Scratch; today I build complex AI models, full-stack architectures, and custom UNIX environments!
 
 ---
 
